@@ -7,6 +7,9 @@
 # Front Squat Biomechanical Analysis
 ### Real-time posture analysis using computer vision
 
+🚀 **Web app live:**  
+https://lucalullo.github.io/front-squat-biomechanical-analysis/
+
 Applicazione web per l’analisi biomeccanica del **front squat** tramite **visione artificiale in tempo reale**, basata su MediaPipe Pose.
 
 L’app utilizza la fotocamera del dispositivo per rilevare i landmark corporei e fornisce **feedback automatico sulla risalita**, identificando errori comuni come il *hip shoot up* (bacino che sale prima del busto).
@@ -34,8 +37,12 @@ L’app utilizza la fotocamera del dispositivo per rilevare i landmark corporei 
 
 ---
 
-## 🚀 Avvio rapido
+## 🛠️ Tecnologie utilizzate
+- JavaScript (ES6)
+- MediaPipe Pose
+- HTML5 / CSS3
+- Web APIs (Camera, Canvas, Speech Synthesis)
+- Python (feature extraction & analysis prototyping)
 
-1. Clona la repository:
-   ```bash
-   git clone https://github.com/lucalullo/front-squat-biomechanical-analysis.git
+## Autore
+Luca Lullo
