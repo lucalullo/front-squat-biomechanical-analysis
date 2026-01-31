@@ -2,6 +2,7 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose-green)
 ![Web](https://img.shields.io/badge/Web-Real--time-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 
 # Front Squat Biomechanical Analysis
 ### Real-time posture analysis using computer vision
@@ -23,8 +24,8 @@ L’app utilizza la fotocamera del dispositivo per rilevare i landmark corporei 
 ## 🧠 Logica di analisi
 - Rilevamento landmark con **MediaPipe Pose**
 - Tracciamento asse verticale di:
-  - anca sinistra
-  - spalla sinistra
+  - anca
+  - spalla
 - Segmentazione automatica delle fasi:
   - discesa
   - bottom
