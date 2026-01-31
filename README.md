@@ -37,4 +37,4 @@ L’app utilizza la fotocamera del dispositivo per rilevare i landmark corporei 
 
 1. Clona la repository:
    ```bash
-   git clone https://github.com/tuo-username/front-squat-biomechanical-analysis.git
+   git clone https://github.com/lucalullo/front-squat-biomechanical-analysis.git
